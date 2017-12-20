@@ -1,0 +1,14 @@
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\bin\Debug\calculatorServerGUI.exe.config
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\bin\Debug\calculatorServerGUI.exe
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\bin\Debug\calculatorServerGUI.pdb
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\bin\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\obj\Debug\calculatorServerGUI.csprojResolveAssemblyReference.cache
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\obj\Debug\calculatorServerGUI.Form1.resources
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\obj\Debug\calculatorServerGUI.Properties.Resources.resources
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\obj\Debug\calculatorServerGUI.csproj.GenerateResource.Cache
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\obj\Debug\calculatorServerGUI.exe
+C:\Users\moh\documents\visual studio 2012\Projects\ConsoleApplication2\calculatorServerGUI\obj\Debug\calculatorServerGUI.pdb
+C:\rpccsharp\ConsoleApplication2\calculatorServerGUI\bin\Debug\calculatorServerGUI.exe.config
+C:\rpccsharp\ConsoleApplication2\calculatorServerGUI\obj\Debug\calculatorServerGUI.exe
+C:\rpccsharp\ConsoleApplication2\calculatorServerGUI\obj\Debug\calculatorServerGUI.pdb

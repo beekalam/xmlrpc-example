@@ -1,0 +1,9 @@
+C:\Users\moh\Downloads\xml-rpc.net.2.4.0\bin\CookComputing.XmlRpcV2.dll
+C:\Users\moh\Downloads\xml-rpc.net.2.4.0\bin\CookComputing.XmlRpcV2.pdb
+C:\Users\moh\Downloads\xml-rpc.net.2.4.0\src\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\moh\Downloads\xml-rpc.net.2.4.0\src\obj\Debug\CookComputing.XmlRpcV2.pdb
+C:\rpccsharp\xml-rpc.net.2.4.0\bin\CookComputing.XmlRpcV2.dll
+C:\rpccsharp\xml-rpc.net.2.4.0\bin\CookComputing.XmlRpcV2.pdb
+C:\rpccsharp\xml-rpc.net.2.4.0\src\obj\Debug\xmlrpc.csprojResolveAssemblyReference.cache
+C:\rpccsharp\xml-rpc.net.2.4.0\src\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\rpccsharp\xml-rpc.net.2.4.0\src\obj\Debug\CookComputing.XmlRpcV2.pdb

@@ -1,0 +1,19 @@
+c:\users\moh\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\calculatorServer.exe.config
+c:\users\moh\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\calculatorServer.exe
+c:\users\moh\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\calculatorServer.pdb
+c:\users\moh\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\calculatorServer.exe
+c:\users\moh\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\calculatorServer.pdb
+c:\users\moh\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CookComputing.XmlRpcV2.dll
+c:\users\moh\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CookComputing.XmlRpcV2.pdb
+c:\users\moh\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\calculatorServer.csprojResolveAssemblyReference.cache
+C:\rpccsharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\calculatorServer.exe.config
+C:\rpccsharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\calculatorServer.exe
+C:\rpccsharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\calculatorServer.pdb
+C:\rpccsharp\server\ConsoleApplication1\bin\Debug\calculatorServer.exe.config
+C:\rpccsharp\server\ConsoleApplication1\obj\Debug\calculatorServer.exe
+C:\rpccsharp\server\ConsoleApplication1\obj\Debug\calculatorServer.pdb
+C:\rpccsharp\server\ConsoleApplication1\bin\Debug\calculatorServer.exe
+C:\rpccsharp\server\ConsoleApplication1\bin\Debug\calculatorServer.pdb
+C:\rpccsharp\server\ConsoleApplication1\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\rpccsharp\server\ConsoleApplication1\bin\Debug\CookComputing.XmlRpcV2.pdb
+C:\rpccsharp\server\ConsoleApplication1\obj\Debug\calculatorServer.csprojResolveAssemblyReference.cache
